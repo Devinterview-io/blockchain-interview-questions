@@ -1,4 +1,4 @@
-# 40 Important Bit Manipulation Interview Questions in 2025
+# 40 Important Bit Manipulation Interview Questions in 2026
 
 <div>
 <p align="center">
